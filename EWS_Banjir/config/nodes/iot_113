@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:13
+device_id:113
+device_longitude:106.86041364164727
+device_latitude:-6.220032486490437
+device_elevation:0.0
+device_radius:0.0
+device_hide:1
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_pic:0
+device_script_file_name:nodeSensorSiaga1.py

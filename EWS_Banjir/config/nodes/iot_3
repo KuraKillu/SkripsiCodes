@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:13
+device_id:3
+device_longitude:106.86886542258566
+device_latitude:-6.228459789594424
+device_elevation:0.0
+device_radius:0.0
+device_hide:1
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_pic:17
+device_script_file_name:clock.py
